@@ -1,6 +1,7 @@
 ---
 name: "🐛 Bug 报告"
-description: 报告一个可复现的 bug
+description: "报告一个可复现的 bug"
+about: "使用此模板报告在项目中发现的错误"
 title: "[Bug]: "
 labels: ["bug"]
 assignees: []
