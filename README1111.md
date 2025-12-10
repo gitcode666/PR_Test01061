@@ -1,8 +1,8 @@
 # 注脚功能测试
-示例一[^1]，示例二[^no te]。示例三[^demo]，示例四[^demo2].示例五[^demo3]，示例六[^demo4]
+示例一[^1]，示例二[^no_te]。示例三[^demo]，示例四[^demo2].示例五[^demo3]，示例六[^demo4]
 
 [^1]: 第一个注脚。
-[^no te]: 第二个注脚。
+[^no_te]: 第二个注脚。
 
 [^demo]: 第三个注脚,跳id[5.1](#custom-anchor)
 [^demo2]: 第四个注脚，跳链接 [官网](https://gitcode.com)。
