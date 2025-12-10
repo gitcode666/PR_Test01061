@@ -1,12 +1,17 @@
 # 注脚功能测试
-示例一[^1]，示例二[^note]。示例三[^demo]，示例四[^demo2].示例五[^demo3]
+示例一[^1]，示例二[^note]。示例三[^demo]，示例四[^demo2].示例五[^demo3]，示例六[^demo4]
 
 [^1]: 第一个注脚。
 [^note]: 第二个注脚。
 
 [^demo]: 第三个注脚,跳id[5.1](#custom-anchor)
 [^demo2]: 第四个注脚，跳链接 [官网](https://gitcode.com)。
-[^demo3]: 第五个注脚,跳H1[5.1](#案例一id-custom-anchor)
+[^demo3]:第五个注脚,跳H1[5.1](#案例一id-custom-anchor)
+[^demo4]: 这是一个多行注脚第一行
+第二行
+第三行
+
+空行后的第四行
 
 
 
