@@ -3,7 +3,7 @@
 [^1]: 第一个注脚。
 [^note]: 第二个注脚。
 
-[^demo]: 第三个注脚[5.1](## 案例一：id-custom-anchor)
+[^demo]: 第三个注脚[5.1](#案例一：id-custom-anchor)
 [^demo2]: 更多信息参见 [官网](https://gitcode.com)。
 
 
