@@ -42,7 +42,7 @@ graph TD
 ' "Bob()" -> Long as "This is very long"
 Long --> "Bob()" : ok
 ```
-
+[^1]: 此处使能的特性包含本文[5.1](## 案例一：id-custom-anchor)
 
 ```plantuml
 @startuml
